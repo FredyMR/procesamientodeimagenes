@@ -22,3 +22,5 @@ Proyecto de la Materia de Procesamiento de Imagenes, En el cual se aplican diver
 *Rotación
 
 *Efecto Espejo
+
+psdata: En la carpeta /dist esta el archivo .jar ejecutable del proyecto.
